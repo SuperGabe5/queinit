@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "mod-loading-screen",
+  "id": "queinit",
   "version": "${version}",
   "name": "Mod Loading Screen",
   "description": "An advanced loading screen with the loading progress of mods",
