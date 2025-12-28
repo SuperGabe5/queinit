@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "queinit",
   "version": "${version}",
-  "name": "Mod Loading Screen",
+  "name": "QueSplash",
   "description": "An advanced loading screen with the loading progress of mods",
   "authors": [
     "supergabe5"
